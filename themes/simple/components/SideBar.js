@@ -12,7 +12,7 @@ export const SideBar = (props) => {
         </aside>
 
         <aside>
-            <Live2D />
+            {/* <Live2D /> */}
         </aside>
 
         <aside>
